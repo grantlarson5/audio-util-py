@@ -1,2 +1,2 @@
-# audio-util-py
-Utility functions for audio files
+# wavy
+Utility functions for .wav audio files
